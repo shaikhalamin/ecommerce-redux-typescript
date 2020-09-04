@@ -1,0 +1,37 @@
+[{
+	"id": 19,
+	"title": "Fresh Produce",
+	"link": "category/fresh-produce",
+	"image_url": "banner/images/3e59144d-321c-4a9b-b919-a7661fe69bfb.jpg",
+	"banner_position_id": 4
+}, {
+	"id": 20,
+	"title": "Cooking Oil & Ghee",
+	"link": "category/cooking-oil-ghee",
+	"image_url": "banner/images/57e9571f-83d7-4603-8a11-24d94fb950a2.jpg",
+	"banner_position_id": 4
+}, {
+	"id": 21,
+	"title": "Baby & Toddler",
+	"link": "category/baby-care",
+	"image_url": "banner/images/eec8871d-a18a-4ef3-85ac-fbb04e705c08.jpg",
+	"banner_position_id": 4
+}, {
+	"id": 22,
+	"title": "Household & Cleaning",
+	"link": "category/household-cleaning",
+	"image_url": "banner/images/5d15f509-6669-4a23-9cac-e9c62622b8e9.jpg",
+	"banner_position_id": 4
+}, {
+	"id": 23,
+	"title": "Bakery & Snacks",
+	"link": "/category/bakery-snacks",
+	"image_url": "banner/images/95cc2fd2-2d5a-4eb7-b04c-ee80eec7e7c9.jpg",
+	"banner_position_id": 4
+}, {
+	"id": 24,
+	"title": "Personal Care",
+	"link": "category/beauty-hygiene",
+	"image_url": "banner/images/9ca47efe-123a-4e8c-9dc8-2f1fcd90b804.jpg",
+	"banner_position_id": 4
+}]

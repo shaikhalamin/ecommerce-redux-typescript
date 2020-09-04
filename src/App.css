@@ -1,0 +1,85 @@
+body {
+  font-family: "Poppins", "Segoe UI", Helvetica, "Droid Sans", Arial,
+    "lucida grande", tahoma, verdana, arial, sans-serif;
+  color: #615e58;
+  font-size: 14px;
+}
+.brand-name {
+  font-family: "Poppins", sans-serif;
+  color: #fff;
+}
+.name-link:hover{
+  color:#fff;
+  text-decoration: none;
+}
+
+.side-menu-link{
+  font-family: "Poppins", sans-serif;
+  color: #000;
+}
+
+.side-menu-link:hover{
+  font-family: "Poppins", sans-serif;
+  color: #000;
+  text-decoration-style: none;
+}
+
+.brand-top {
+  border-top: 3px solid #17a2b8;
+}
+
+@media (min-width: 576px) {
+  .form-inline .nav-search-input {
+    width: 430px !important;
+  }
+}
+
+@media (max-width: 1149px) and (min-width: 980px){
+.form-inline .nav-search-input {
+    width: 320px !important;
+  }
+}
+
+@media (max-width: 1007px){
+.form-inline .nav-search-input {
+    
+  }
+}
+
+
+.b-r-0 {
+  border-radius: 0px !important;
+}
+.p-r-l {
+  padding-left: 0px !important;
+  padding-right: 0px !important;
+}
+
+.pd-info{
+  
+  
+  
+}
+
+.padding-0{
+  padding: 0 !important;
+}
+.img-custom-fluid{
+  max-width: 100%;
+  height: 170px;
+}
+
+
+.sticky-item {
+  opacity: 0.7;
+  cursor: pointer;
+  position: fixed;
+  width: 65px;
+  height: 75px;
+  background: #f5fceb;
+  right: 0;
+  top: calc(110px + 30%);
+  box-shadow: 0 0 16px -1px rgba(0, 0, 0, 0.75);
+  display: none;
+  transition: 0.1s ease-in-out;
+}
