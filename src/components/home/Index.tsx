@@ -3,6 +3,8 @@ import AppNavBar from "../partials/AppNavBar";
 import AppJumbotron from "./AppJumbotron";
 import ProductsShow from "./ProductsShow";
 import HorizontalMenu from "./HorizontalMenu";
+import Moto from './Moto';
+
 
 const Home: React.FC<{}> = () => (
   <>
@@ -10,6 +12,7 @@ const Home: React.FC<{}> = () => (
     <AppJumbotron />
     <HorizontalMenu />
     <ProductsShow />
+    <Moto />
 
   </>
 );

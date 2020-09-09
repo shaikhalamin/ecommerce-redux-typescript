@@ -83,3 +83,23 @@ body {
   display: none;
   transition: 0.1s ease-in-out;
 }
+
+
+.padding-40{
+  padding: 40px 0;
+}
+
+.feature-box .icon-radius img{
+    float: left;
+}
+
+.feature-box h6 {
+  font-size: 15px;
+  font-weight: 200;
+  margin: 0;
+  padding: 18px 0 0;
+}
+
+.feature-box p {
+  font-size: 14px;
+}
