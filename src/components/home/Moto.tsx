@@ -9,7 +9,7 @@ import key from "./images/icon/key.png";
 const Moto: React.FC<{}> = () => {
 
     return (
-        <section className="padding-40 bg-white">
+        <section className="padding-40 bg-white border-top border-bottom mb-5">
             <Container>
                 <Row className="">
                     <Col sm={6} md={4} className="mt-2">
